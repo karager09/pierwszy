@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int pierwsze(int pie,int k, int tab[]);
+int pierwsze(int abc,int pier,int k, int tab[]);
 
 int tab[1000];
 
