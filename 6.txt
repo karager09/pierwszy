@@ -1,6 +1,6 @@
 //program dzia³a pod Borlandem
 
-#include<stdio.h>
+#include<stdio.h>fdsafdasfdsafdas
 
 #include<conio.h>
 

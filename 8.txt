@@ -1,6 +1,6 @@
     /*
      * Program kopiuje zawartoœæ pliku tekstowego na stdout
-     */
+     */fdsafdasfdsa
      
     #include <stdio.h>
     #define N 32
