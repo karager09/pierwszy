@@ -2,7 +2,7 @@
 
 int pierwsze(int pie,int k, int tab[], int a);
 
-
+fdsafdsaf
 int tab[1000];
 
 int main()

@@ -11,7 +11,7 @@ char buf[30];
 while(!feof(plik))
 
 {
-
+feafea
 fscanf(plik,"%s",buf);
 
 i++;
