@@ -3,7 +3,7 @@
 #include <math.h>
 
 main()
-
+fdsafdasfdsaeafdsa
 {
 
 int w,l,j,k,i=0,p=0;
